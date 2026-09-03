@@ -60,4 +60,10 @@ section {
     letter-spacing: 0.02em;
     color: #FFFFFF;
     border: none;
+    transition: 0.3s ease;
+}
+.main-btn:hover {
+    background-color: #2dca4b;
+    cursor: pointer;
+    transform: scale(1.05);
 }
